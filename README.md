@@ -1,6 +1,7 @@
 # Professional experience
-## Legal Counsel
-### Dr. Grewe & Partners, CPAs, LLP
+## Dr. Grewe & Partners, CPAs, LLP
+### Legal Counsel
+#### 
 
 
 ## Welcome to GitHub Pages
